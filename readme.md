@@ -3,7 +3,7 @@
 ![ALX T Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE8YW2uUIkMOo39bzpIR66W0xUNkg9orOkXmVXnTPLsyKmOk_7m2DEhXZRlR93By2n4D4&usqp=CAU)
 
 -----
-![ALX T Logo](https://media-exp1.licdn.com/dms/image/C5603AQHTz9EvtV3_Sg/profile-displayphoto-shrink_200_200/0/1642548233786?e=1665014400&v=beta&t=Xob-8EGcysLHuwmr9NRX0tW_AwscsWDJ884gLjvynMk)
+![Tochi's portrait](https://media-exp1.licdn.com/dms/image/C5603AQHTz9EvtV3_Sg/profile-displayphoto-shrink_200_200/0/1642548233786?e=1665014400&v=beta&t=Xob-8EGcysLHuwmr9NRX0tW_AwscsWDJ884gLjvynMk)
 
 ## **Author:** Tochi Nwachukwu
 
@@ -18,3 +18,5 @@
 2. **PROJECT TWO:** Building the Udagram || Status: In Progress
 
 -----
+
+![ALX T Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi0cA6bsddGi1rUd1WlVIPIbjSa43jq8mB3xwJ6SskIshC2R5KuGUVYhPJlKHWIwEJ4zE&usqp=CAU)
